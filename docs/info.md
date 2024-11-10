@@ -13,7 +13,7 @@ Adds two numbers
 
 ## How to test
 
-Explain how to use your project
+.
 
 ## External hardware
 
