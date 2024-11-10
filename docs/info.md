@@ -13,7 +13,7 @@ Adds two numbers
 
 ## How to test
 
-.
+Apply two input signals.
 
 ## External hardware
 
